@@ -1,3 +1,4 @@
+![](https://github.com/felipendc/thinkpad_t430_synaptics_configs/blob/main/DEMO_PICS/Captura%20de%20Tela%20(31).png)
 ![](https://github.com/felipendc/thinkpad_t430_synaptics_configs/blob/main/DEMO_PICS/Captura%20de%20Tela%20(6).png)
 ![](https://github.com/felipendc/thinkpad_t430_synaptics_configs/blob/main/DEMO_PICS/Captura%20de%20Tela%20(7).png)
 ![](https://github.com/felipendc/thinkpad_t430_synaptics_configs/blob/main/DEMO_PICS/Captura%20de%20Tela%20(8).png)
